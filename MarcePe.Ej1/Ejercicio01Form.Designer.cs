@@ -93,7 +93,6 @@
             this.label3.Size = new System.Drawing.Size(51, 15);
             this.label3.TabIndex = 6;
             this.label3.Text = "Apellido";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -103,7 +102,6 @@
             this.label4.Size = new System.Drawing.Size(119, 15);
             this.label4.TabIndex = 7;
             this.label4.Text = "Fecha de Nacimiento";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // button1
             // 
@@ -129,7 +127,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Ejercicio01Form";
-            this.Text = "Form1";
+            this.Text = "Ejercicio01";
             this.ResumeLayout(false);
             this.PerformLayout();
 
