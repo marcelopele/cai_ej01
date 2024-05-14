@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FrMnyuer2bBRIQdRXUytn6sKdYqd+VKb2F+VVCs7dXl8Zb3Rbt0B7nxj2z7puVCYL87DhT/U0grx0kYFSnXedA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Pele\\Desktop\\TP CAI\\ej0\\ejerc1\\MarcePe.Ej1\\MarcePe.Ej1\\MarcePe.Ej1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pele\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pele\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pele\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

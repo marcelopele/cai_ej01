@@ -1,0 +1,17 @@
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\bin\Debug\net6.0-windows\MarcePe.Ej1.exe
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\bin\Debug\net6.0-windows\MarcePe.Ej1.deps.json
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\bin\Debug\net6.0-windows\MarcePe.Ej1.runtimeconfig.json
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\bin\Debug\net6.0-windows\MarcePe.Ej1.dll
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\bin\Debug\net6.0-windows\MarcePe.Ej1.pdb
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.csproj.AssemblyReference.cache
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.Form1.resources
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.csproj.GenerateResource.cache
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.AssemblyInfoInputs.cache
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.AssemblyInfo.cs
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.csproj.CoreCompileInputs.cache
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.dll
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\refint\MarcePe.Ej1.dll
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.pdb
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\MarcePe.Ej1.genruntimeconfig.cache
+D:\Users\Pele\Desktop\TP CAI\ej0\ejerc1\MarcePe.Ej1\MarcePe.Ej1\obj\Debug\net6.0-windows\ref\MarcePe.Ej1.dll
